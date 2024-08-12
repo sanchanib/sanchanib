@@ -10,12 +10,12 @@
 
 - <b>Python programming</b>
   - [Updating soon]
-
-- <b>Data Structures and Algorithms Practice</b>
-  - [Practicing DS & Algos in Python](https://github.com/sanchanib/Algorithms-practice)
     
 - <b>C programming</b>
   - [2D Convolution](https://github.com/sanchanib/2D-Convolution)
+
+- <b>Data Structures and Algorithms Practice</b>
+  - [Practicing DS & Algos in Python](https://github.com/sanchanib/Algorithms-practice)
 
 <h2>📺 Front-end / UX/UI Projects:</h2>
 
