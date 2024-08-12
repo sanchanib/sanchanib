@@ -9,7 +9,7 @@
   - [Shape Bouncing application](https://github.com/sanchanib/Shape-Bouncing-application)
 
 - <b>Python programming</b>
-  - 
+  - [Updating soon]
 
 - <b>Data Structures and Algorithms Practice (Python)</b>
   - [Practicing DS & Algos in Python](https://github.com/sanchanib/Algorithms-practice)
