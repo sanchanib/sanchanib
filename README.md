@@ -11,7 +11,7 @@
 - <b>Python programming</b>
   - [Updating soon]
 
-- <b>Data Structures and Algorithms Practice (Python)</b>
+- <b>Data Structures and Algorithms Practice</b>
   - [Practicing DS & Algos in Python](https://github.com/sanchanib/Algorithms-practice)
     
 - <b>C programming</b>
