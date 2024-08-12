@@ -3,13 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack</b>
-  - [The Odin Project (in progress)]
+  - The Odin Project (in progress)
 
 - <b>Java programming</b>
   - [Shape Bouncing application](https://github.com/sanchanib/Shape-Bouncing-application)
 
 - <b>Python programming</b>
-  - [Updating soon]
+  - Updating soon
     
 - <b>C programming</b>
   - [2D Convolution](https://github.com/sanchanib/2D-Convolution)
