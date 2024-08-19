@@ -14,6 +14,8 @@
 - <b>C programming</b>
   - [2D Convolution](https://github.com/sanchanib/2D-Convolution)
 
+- <b>C# programming</b>
+
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing DS & Algos in Python](https://github.com/sanchanib/Algorithms-practice)
 
